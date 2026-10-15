@@ -1,0 +1,28 @@
+{
+  "github_username": "aimmannn02",
+  "handle": "aiman",
+  "name": "Aiman Ansari",
+  "tagline": "AI/ML Engineer · GenAI Developer · CS Student",
+
+  "now": { "role": "Software Engineering & Development Intern", "where": "@ MPOnline Limited" },
+  "creating": "RAG chatbots & AI apps for digital governance",
+  "stack": ["Python", "Pandas", "NumPy", "Scikit-learn", "React.js", "REST APIs", "RAG", "OpenAI & Gemini APIs"],
+  "highlights": [
+    "Built a RAG-based FAQ chatbot with OCR & expert escalation",
+    "B.Tech CSE (AI & ML) at VIT Bhopal, class of 2027",
+    "Vice President, Anterix Club · NSSC'24 Student Ambassador"
+  ],
+
+  "headline": "AI/ML Engineer @ MPOnline · GenAI Developer · CS Student",
+  "links": {
+    "email": "aimmannn02@gmail.com",
+    "instagram": "",
+    "linkedin": "linkedin.com/in/ansari-aiman",
+    "x": "",
+    "youtube": "",
+    "website": ""
+  },
+
+  "heatmap": { "total": 120, "seed": 29, "end_date": "" },
+  "portrait": { "crop": "" }
+}
