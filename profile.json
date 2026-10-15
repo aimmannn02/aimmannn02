@@ -24,5 +24,5 @@
   },
 
   "heatmap": { "total": 120, "seed": 29, "end_date": "" },
-  "portrait": { "crop": "" }
+  "portrait": { "crop": "384,489,1433,1550" }
 }
